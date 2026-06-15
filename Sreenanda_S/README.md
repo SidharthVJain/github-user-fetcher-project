@@ -5,3 +5,5 @@ Technologies
 * Python
 * Requests
 * GitHub API
+Requirements
+*requests
